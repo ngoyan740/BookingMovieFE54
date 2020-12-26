@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/moviebookingfe54/static/css/main.6276b391.chunk.css",
+    "main.js": "/moviebookingfe54/static/js/main.2e7b6804.chunk.js",
+    "main.js.map": "/moviebookingfe54/static/js/main.2e7b6804.chunk.js.map",
+    "runtime-main.js": "/moviebookingfe54/static/js/runtime-main.bd7737d1.js",
+    "runtime-main.js.map": "/moviebookingfe54/static/js/runtime-main.bd7737d1.js.map",
+    "static/js/2.073e8bdc.chunk.js": "/moviebookingfe54/static/js/2.073e8bdc.chunk.js",
+    "static/js/2.073e8bdc.chunk.js.map": "/moviebookingfe54/static/js/2.073e8bdc.chunk.js.map",
+    "static/js/3.d242b242.chunk.js": "/moviebookingfe54/static/js/3.d242b242.chunk.js",
+    "static/js/3.d242b242.chunk.js.map": "/moviebookingfe54/static/js/3.d242b242.chunk.js.map",
+    "index.html": "/moviebookingfe54/index.html",
+    "static/css/main.6276b391.chunk.css.map": "/moviebookingfe54/static/css/main.6276b391.chunk.css.map",
+    "static/js/2.073e8bdc.chunk.js.LICENSE.txt": "/moviebookingfe54/static/js/2.073e8bdc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/moviebookingfe54/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd7737d1.js",
+    "static/js/2.073e8bdc.chunk.js",
+    "static/css/main.6276b391.chunk.css",
+    "static/js/main.2e7b6804.chunk.js"
+  ]
+}

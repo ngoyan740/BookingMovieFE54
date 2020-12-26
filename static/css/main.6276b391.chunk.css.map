@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/components/Header/header.css"],"names":[],"mappings":"AAAA,KACI,wBACJ,CCFA,gBACI,uBACJ","file":"main.6276b391.chunk.css","sourcesContent":["body {\n    background-color: #343a3f;\n}",".nav-link:hover{\n    color: #ffc007!important;\n}    \n"]}
